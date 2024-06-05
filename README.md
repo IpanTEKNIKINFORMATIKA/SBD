@@ -1,1 +1,2 @@
-File pertama yang saya buat
+Tugas pertama masukin file Sql ke github
+
